@@ -15,4 +15,4 @@ function calculateTime(n) {
     return (Date.now() - startTime)/1000;
 }
 
-console.log(calculateTime(100000));
+console.log(calculateTime(100000000));
